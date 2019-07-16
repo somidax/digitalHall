@@ -8,7 +8,7 @@ This sample Angular web application has the following features:
 
 # Setup Environment
 
-1.	Download the application code: git clone https://github.com/Vidyo/groupchat-angular 
+1.	Download the application code: git clone https://github.com/Vidyo/vidyo.io-groupchat-angular.git
 2.	Install latest node js.
 Download Link: https://nodejs.org/en/download/
 3.	Open the Windows Command Prompt, PowerShell or a similar command line tool (for Mac use Terminal)
