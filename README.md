@@ -1,4 +1,4 @@
-# Multiparty Video Chat Application using Angular and vidyo.io
+# Multiparty Video Chat Application using Angular and DigitalHall ( a fork from vidyo.io)
 
 This sample Angular web application has the following features:
 
